@@ -1,6 +1,4 @@
-# Premium GitHub Profile README
 
-> Replace `anushkaryaa` and all placeholder links.
 
 <!-- PLACE YOUR HERO GIF -->
 <p align="center">
