@@ -1,6 +1,6 @@
 # Premium GitHub Profile README
 
-> Replace `YOUR_USERNAME` and all placeholder links.
+> Replace `anushkaryaa` and all placeholder links.
 
 <!-- PLACE YOUR HERO GIF -->
 <p align="center">
@@ -29,10 +29,10 @@ Software Engineer • Full Stack Developer • AI Engineer
 <td width="50%">
 
 ### Links
-- Portfolio: YOUR_PORTFOLIO
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
-- Resume: YOUR_RESUME
+- Portfolio: https://anushkaryaa.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/anushka-arya-235716251/
+- Email: anushkaryaa@gmail.com
+- Resume: later
 
 </td>
 </tr>
@@ -87,8 +87,8 @@ LangChain • RAG • Vector Search • Prompt Engineering
 ## GitHub Dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anushkaryaa&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaryaa&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -109,10 +109,6 @@ LangChain • RAG • Vector Search • Prompt Engineering
 - Cloud Computing
 
 ---
-
-## Connect
-
-Replace with icon buttons and your URLs.
 
 ---
 
