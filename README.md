@@ -1,13 +1,3 @@
-# Create an Award-Winning GitHub Profile README
-
-Design a **world-class, premium GitHub Profile README** that looks like a futuristic developer landing page rather than a traditional README.
-
-The final README should immediately impress recruiters, hiring managers, and developers within the first 5 seconds.
-
-The design should feel comparable to the best GitHub profiles on the platform.
-
----
-
 # Design Style
 
 Create a sleek cyberpunk-inspired developer profile using:
